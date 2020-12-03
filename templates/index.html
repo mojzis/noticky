@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <title>
+{% extends "base.html" %}
+{% block title %}
 Songs
-</title>
-</head>
-<body>
-    <div>
+{% endblock %}
+
+{% block content %}
 <h1>Notičky</h1>
 <p>
 <strong>Work in progress! :)</strong></br>
@@ -21,30 +17,13 @@ with propper "fingerings" - the numbers above the notes indicating which finger 
 Where necessary, the melody is transposed to c key to make it easier to play.
 </p>
 <ul>
-
+{% for song in songs %}
     <li>
-        <a href="lilyout/vesele_vanocni_hody.pdf">Veselé vánoční hody</a>
+        <a href="lilyout/{{song.filename}}.pdf">{{song.title}}</a>
     </li>
-
-    <li>
-        <a href="lilyout/skakal_pes.pdf">Skákal pes</a>
-    </li>
-
-    <li>
-        <a href="lilyout/pasli_ovce_valasi.pdf">Pásli ovce valaši</a>
-    </li>
-
-    <li>
-        <a href="lilyout/nesem_vam_noviny.pdf">Nesem vám noviny</a>
-    </li>
-
-    <li>
-        <a href="lilyout/narodil_se_kristus_pan.pdf">Narodil se Kristus Pán</a>
-    </li>
-
+{% endfor %}
 </ul>
 <p>
 Links lead to pdf files, a page / file for each song, made so that it would be as easy as possible to read while playing. 
 </p>
-</div>
-</body>
+{% endblock %}
