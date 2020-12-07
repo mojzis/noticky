@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}
+{{ song.title }}
+{% endblock %}
+{% block ogtitle %}
+{{ song.title }}
+{% endblock %}
+{% block ogimage %}
+../ogimg/{{song.filename}}.png
+{% endblock %}
+{% block customhead%}
+<style type="text/css">
+.score {
+    width: 100%
+}
+.lyrics p {
+    margin: 0.1rem;
+}
+</style>
+{% endblock %}
+{% block content %}
+<h1>{{ song.title }}</h1>
+<img src="../heads/{{ song.filename }}.cropped.svg" class="score">
+<div class="lyrics">
+    {% for line in song.lyrics %}
+    <p>{{ line }}</p>
+{% endfor %}
+</div>
+    <p>Download PDF: <a href="../lilyout/{{song.filename}}.pdf">pdf</a></p>
+<div class="foot"><a href="../index.html">Back to the list.</a></div>
+{% endblock %}

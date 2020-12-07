@@ -59,18 +59,17 @@ theChords = \chordmode {
 }
 }
 \markup {
+  \vspace #0.3
   \column {
-    \line { \null }
     \line { Syna porodila čistá Panna, }
     \line {v jesličky vložila Krista pána,}
     \line {|: jej ovinula a zavinula :| plenčičkama}
-    \line { \null }
+    \vspace #0.3
     \line { Andělé v oblacích prozpěvují,}
     \line { narození Páně ohlašují,}
     \line { |: že jest narozen, v jeslích položen :| oznamují.}
   }
   \column {
-    \line { \null }
     \line { K němužto andělé z nebe přišli,}
     \line {i také pastýři jsou se sešli.}
     \line { |: Jeho vítali jeho chválíli :|, dary nesli.}

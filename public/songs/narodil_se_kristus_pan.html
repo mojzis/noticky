@@ -2,7 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>{% block title %}{% endblock %}</title>
+    <title>
+Narodil se Kristus Pán
+</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,10 +17,14 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="twitter:card" content="summary_large_image"></meta>
-    <meta property="og:title" content="{% block ogtitle %}{% endblock %}" />
+    <meta property="og:title" content="
+Narodil se Kristus Pán
+" />
     <meta property="og:description" content="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along." />
     <meta name="Description" CONTENT="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along.">
-    <meta property="og:image" content="{% block ogimage %}{% endblock %}" />
+    <meta property="og:image" content="
+../ogimg/narodil_se_kristus_pan.png
+" />
     <style type="text/css">
         /* from https://vanillacss.com/vanilla.css */
         /* Reset */
@@ -222,8 +228,43 @@
             padding: 1rem;
         }
     </style>
-    {% block customhead %}{% endblock %}
+    
+<style type="text/css">
+.score {
+    width: 100%
+}
+.lyrics p {
+    margin: 0.1rem;
+}
+</style>
+
 </head>
 <body>
-<div>{% block content %}{% endblock %}</div>
+<div>
+<h1>Narodil se Kristus Pán</h1>
+<img src="../heads/narodil_se_kristus_pan.cropped.svg" class="score">
+<div class="lyrics">
+    
+    <p>Jenž prorokován jest, veselme se,</p>
+
+    <p>ten na svět poslán jest, radujme se. </p>
+
+    <p>|: Z života čistého, rodu ... :|</p>
+
+    <p>Člověčenství naše, veselme se, </p>
+
+    <p>ráčil vzíti na se, radujme se</p>
+
+    <p>|: Z života čistého, rodu královského ... :|</p>
+
+    <p>Goliáš obloupen, veselme se, </p>
+
+    <p>člověk jest vykoupen, radujme se.</p>
+
+    <p>|: Z života čistého, rodu ... :|</p>
+
+</div>
+    <p>Download PDF: <a href="../lilyout/narodil_se_kristus_pan.pdf">pdf</a></p>
+<div class="foot"><a href="../index.html">Back to the list.</a></div>
+</div>
 </body>

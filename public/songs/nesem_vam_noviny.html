@@ -2,7 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>{% block title %}{% endblock %}</title>
+    <title>
+Nesem vám noviny
+</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,10 +17,14 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="twitter:card" content="summary_large_image"></meta>
-    <meta property="og:title" content="{% block ogtitle %}{% endblock %}" />
+    <meta property="og:title" content="
+Nesem vám noviny
+" />
     <meta property="og:description" content="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along." />
     <meta name="Description" CONTENT="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along.">
-    <meta property="og:image" content="{% block ogimage %}{% endblock %}" />
+    <meta property="og:image" content="
+../ogimg/nesem_vam_noviny.png
+" />
     <style type="text/css">
         /* from https://vanillacss.com/vanilla.css */
         /* Reset */
@@ -222,8 +228,43 @@
             padding: 1rem;
         }
     </style>
-    {% block customhead %}{% endblock %}
+    
+<style type="text/css">
+.score {
+    width: 100%
+}
+.lyrics p {
+    margin: 0.1rem;
+}
+</style>
+
 </head>
 <body>
-<div>{% block content %}{% endblock %}</div>
+<div>
+<h1>Nesem vám noviny</h1>
+<img src="../heads/nesem_vam_noviny.cropped.svg" class="score">
+<div class="lyrics">
+    
+    <p> Syna porodila čistá Panna, </p>
+
+    <p>v jesličky vložila Krista pána,</p>
+
+    <p>|: jej ovinula a zavinula :| plenčičkama</p>
+
+    <p> Andělé v oblacích prozpěvují,</p>
+
+    <p> narození Páně ohlašují,</p>
+
+    <p> |: že jest narozen, v jeslích položen :| oznamují.</p>
+
+    <p> K němužto andělé z nebe přišli,</p>
+
+    <p>i také pastýři jsou se sešli.</p>
+
+    <p> |: Jeho vítali jeho chválíli :|, dary nesli.</p>
+
+</div>
+    <p>Download PDF: <a href="../lilyout/nesem_vam_noviny.pdf">pdf</a></p>
+<div class="foot"><a href="../index.html">Back to the list.</a></div>
+</div>
 </body>

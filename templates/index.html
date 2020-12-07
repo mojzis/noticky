@@ -2,6 +2,9 @@
 {% block title %}
 Songs
 {% endblock %}
+{% block ogtitle %}
+Songs
+{% endblock %}
 
 {% block content %}
 <h1>Notičky</h1>
@@ -19,7 +22,8 @@ Where necessary, the melody is transposed to c key to make it easier to play.
 <ul>
 {% for song in songs %}
     <li>
-        <a href="lilyout/{{song.filename}}.pdf">{{song.title}}</a>
+        <a href="songs/{{song.filename}}.html">{{song.title}}</a> &nbsp;
+        <a href="lilyout/{{song.filename}}.pdf">pdf</a>
     </li>
 {% endfor %}
 </ul>

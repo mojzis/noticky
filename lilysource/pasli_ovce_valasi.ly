@@ -39,8 +39,8 @@
 }
 }
 \markup {
+  \vspace #0.3
   \column {
-    \line { \null }
     \line { Anděl se jim ukázal, do Betléma jim kázal, |: hajdom ... :| }
     \line { A tam jděte, pospěšte, Jezulátko najdete, |: hajdom ... :| }
     \line { On tam leží v jesličkách, zavinutý v plenčičkách, |: hajdom ... :|}

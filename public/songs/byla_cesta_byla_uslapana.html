@@ -2,7 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>{% block title %}{% endblock %}</title>
+    <title>
+Byla cesta byla ušlapaná
+</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,10 +17,14 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="twitter:card" content="summary_large_image"></meta>
-    <meta property="og:title" content="{% block ogtitle %}{% endblock %}" />
+    <meta property="og:title" content="
+Byla cesta byla ušlapaná
+" />
     <meta property="og:description" content="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along." />
     <meta name="Description" CONTENT="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along.">
-    <meta property="og:image" content="{% block ogimage %}{% endblock %}" />
+    <meta property="og:image" content="
+../ogimg/byla_cesta_byla_uslapana.png
+" />
     <style type="text/css">
         /* from https://vanillacss.com/vanilla.css */
         /* Reset */
@@ -222,8 +228,45 @@
             padding: 1rem;
         }
     </style>
-    {% block customhead %}{% endblock %}
+    
+<style type="text/css">
+.score {
+    width: 100%
+}
+.lyrics p {
+    margin: 0.1rem;
+}
+</style>
+
 </head>
 <body>
-<div>{% block content %}{% endblock %}</div>
+<div>
+<h1>Byla cesta byla ušlapaná</h1>
+<img src="../heads/byla_cesta_byla_uslapana.cropped.svg" class="score">
+<div class="lyrics">
+    
+    <p> Postřehla ju tam svatá Alžběta:</p>
+
+    <p> Kam ty kráčíš, kam ty kráčíš, sestřičko má milá?</p>
+
+    <p> Kráčím sestro, kráčím do kostela,</p>
+
+    <p> poslúchať mše, poslúchať mše svatého nešpora.</p>
+
+    <p> Nechoď sestro, nechoď do kostela,</p>
+
+    <p> povídajů, povídajů, že porodíš syna.</p>
+
+    <p> A co by to za novina byla,</p>
+
+    <p> kdyby panna, kdyby panna syna porodila.</p>
+
+    <p> Porodila v ty vánoční hody,</p>
+
+    <p> co zamrzly, co zamrzly všecky všady vody. </p>
+
+</div>
+    <p>Download PDF: <a href="../lilyout/byla_cesta_byla_uslapana.pdf">pdf</a></p>
+<div class="foot"><a href="../index.html">Back to the list.</a></div>
+</div>
 </body>

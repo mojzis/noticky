@@ -2,7 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>{% block title %}{% endblock %}</title>
+    <title>
+Veselé vánoční hody
+</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,10 +17,14 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="twitter:card" content="summary_large_image"></meta>
-    <meta property="og:title" content="{% block ogtitle %}{% endblock %}" />
+    <meta property="og:title" content="
+Veselé vánoční hody
+" />
     <meta property="og:description" content="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along." />
     <meta name="Description" CONTENT="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along.">
-    <meta property="og:image" content="{% block ogimage %}{% endblock %}" />
+    <meta property="og:image" content="
+../ogimg/vesele_vanocni_hody.png
+" />
     <style type="text/css">
         /* from https://vanillacss.com/vanilla.css */
         /* Reset */
@@ -222,8 +228,41 @@
             padding: 1rem;
         }
     </style>
-    {% block customhead %}{% endblock %}
+    
+<style type="text/css">
+.score {
+    width: 100%
+}
+.lyrics p {
+    margin: 0.1rem;
+}
+</style>
+
 </head>
 <body>
-<div>{% block content %}{% endblock %}</div>
+<div>
+<h1>Veselé vánoční hody</h1>
+<img src="../heads/vesele_vanocni_hody.cropped.svg" class="score">
+<div class="lyrics">
+    
+    <p> Jehož Maria počala, v Betlémě ho porodila,</p>
+
+    <p> položila do jesliček, zavinula do plenčiček, děťátko.</p>
+
+    <p> Vůl a oslík nad ním stáli a svým dechem zahřívali</p>
+
+    <p> chudé lidské nemluvňátko, slavné Boží pacholátko, děťátko.</p>
+
+    <p> Potmě leží, nemá svíčičky, na nebi svítí mu hvězdičky.</p>
+
+    <p> Ty, jenž všechen oděv dáváš, samo's nahé a nic nemáš, děťátko.</p>
+
+    <p> Přišli chudí pastouškové, zpívají Ti chvály nové:</p>
+
+    <p> Vítej nám nebeský Králi, Tebeť jsme zdávna žádali, děťátko.</p>
+
+</div>
+    <p>Download PDF: <a href="../lilyout/vesele_vanocni_hody.pdf">pdf</a></p>
+<div class="foot"><a href="../index.html">Back to the list.</a></div>
+</div>
 </body>

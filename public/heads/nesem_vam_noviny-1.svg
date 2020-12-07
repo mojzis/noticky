@@ -1,0 +1,657 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0 0 39.8339 56.3365">
+<style text="style/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<!-- Page: 1/2 -->
+<text transform="translate(1.8969, 0.9484)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<line transform="translate(4.7421, 8.5927)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="33.1668" y2="-0.0000"/>
+<line transform="translate(4.7421, 7.5927)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="33.1668" y2="-0.0000"/>
+<line transform="translate(4.7421, 6.5927)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="33.1668" y2="-0.0000"/>
+<line transform="translate(4.7421, 5.5927)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="33.1668" y2="-0.0000"/>
+<line transform="translate(4.7421, 4.5927)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="33.1668" y2="-0.0000"/>
+<rect transform="translate(25.0815, 6.5927)" x="0.0000" y="-2.0000" width="0.1068" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(37.8302, 6.5927)" x="0.0000" y="-2.0000" width="0.1068" height="4.0000" ry="0.0000" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:52:53">
+<circle transform="translate(31.6971, 8.5927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(31.4011, 8.9110)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:55:56">
+<path transform="translate(31.2930, 4.0647) scale(0.0022, -0.0022)" d="M236 355c0 61 -22 124 -75 124c-25 0 -48 -14 -48 -37c0 -27 35 -41 35 -68c0 -38 -31 -69 -69 -69s-68 31 -68 69c0 75 71 126 150 126c95 0 184 -57 184 -145c0 -158 -162 -160 -257 -229c12 3 24 5 37 5c32 0 67 -10 101 -33c23 -16 49 -25 70 -25c20 0 37 8 42 28
+c1 6 6 8 10 8c5 0 11 -4 11 -10c0 -63 -85 -99 -132 -99c-35 0 -69 14 -94 42c-14 16 -32 23 -50 23c-30 0 -59 -21 -62 -55c-1 -7 -5 -10 -10 -10c-6 0 -12 4 -11 12c15 174 236 164 236 343z" fill="currentColor"/>
+</a>
+<rect transform="translate(32.1886, 6.5927)" x="-0.0365" y="-1.2226" width="0.0730" height="3.0298" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:60:61">
+<circle transform="translate(34.0887, 7.0927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(33.7530, 7.4110)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:61:62">
+<path transform="translate(33.7189, 3.0754) scale(0.0022, -0.0022)" d="M42 500c45 -8 91 -13 137 -13s92 5 137 13c13 2 21 -9 15 -15c-68 -68 -167 -87 -263 -87c-8 0 -15 -7 -15 -15v-108c28 28 65 47 104 47c115 0 184 -51 184 -161c0 -92 -83 -161 -179 -161c-82 0 -162 38 -162 111c0 36 29 65 65 65s65 -29 65 -65
+c0 -25 -40 -28 -40 -53c0 -30 37 -37 72 -37c57 0 70 73 70 140c0 65 -18 134 -75 134c-42 0 -82 -15 -106 -48c-3 -4 -7 -5 -11 -5c-7 0 -13 5 -13 13v230c0 9 7 16 15 15z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:31:32">
+<text transform="translate(33.5606, 12.0927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>ny</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:38:39">
+<text transform="translate(33.5606, 14.8927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>ny</tspan>
+</text>
+</a>
+<rect transform="translate(34.5803, 6.5927)" x="-0.0365" y="-2.7774" width="0.0730" height="3.0846" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:8:9">
+<rect transform="translate(15.4209, 12.0927)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:45:46">
+<circle transform="translate(29.8054, 7.5927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(29.4469, 7.9105)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:47:48">
+<path transform="translate(29.3672, 4.0647) scale(0.0022, -0.0022)" d="M208 319c21 13 42 27 57 47c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173
+c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 8 2 16 8 20z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:25:26">
+<text transform="translate(29.2773, 12.0927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>vi</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:32:33">
+<text transform="translate(29.2773, 14.8927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>ji</tspan>
+</text>
+</a>
+<rect transform="translate(30.2969, 6.5927)" x="-0.0365" y="-1.7774" width="0.0730" height="2.5846" ry="0.0133" fill="currentColor"/>
+<polygon transform="translate(21.7950, 3.8047)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0267" fill="currentColor" stroke="currentColor" points="1.9514 0.3495 1.9514 0.8029 0.0133 0.2267 0.0133 -0.2267"/>
+<polygon transform="translate(34.5438, 3.8047)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0267" fill="currentColor" stroke="currentColor" points="1.9514 0.3495 1.9514 0.8029 0.0133 0.2267 0.0133 -0.2267"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:63:64">
+<path transform="translate(33.5606, 6.5927)" stroke-width="0.0450" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.3636 1.5281C0.6315 2.2807 1.4824 2.7305 2.2552 2.5281L2.2552 2.5281C1.5139 2.6709 0.6631 2.2211 0.3636 1.5281z"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:35:36">
+<rect transform="translate(31.5783, 14.8927)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:28:29">
+<rect transform="translate(31.7775, 12.0927)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:49:50">
+<path transform="translate(29.2773, 6.5927)" stroke-width="0.0450" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.3838 2.1781C0.6910 2.8929 1.5371 3.2731 2.2755 3.0281L2.2755 3.0281C1.5647 3.2115 0.7186 2.8314 0.3838 2.1781z"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:50:51">
+<polygon transform="translate(30.2604, 4.8047)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0267" fill="currentColor" stroke="currentColor" points="1.9514 0.3495 1.9514 0.8029 0.0133 0.2267 0.0133 -0.2267"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:29:30">
+<rect transform="translate(28.2493, 14.8927)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:22:23">
+<rect transform="translate(28.0814, 12.0927)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:31:32">
+<path transform="translate(20.8119, 6.5927)" stroke-width="0.0450" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.3636 1.5281C0.6315 2.2807 1.4824 2.7305 2.2552 2.5281L2.2552 2.5281C1.5139 2.6709 0.6631 2.2211 0.3636 1.5281z"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:18:19">
+<rect transform="translate(19.7913, 14.8927)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:17:18">
+<path transform="translate(16.5285, 6.5927)" stroke-width="0.0450" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.3838 2.1781C0.6910 2.8929 1.5371 3.2731 2.2755 3.0281L2.2755 3.0281C1.5647 3.2115 0.7186 2.8314 0.3838 2.1781z"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:18:19">
+<polygon transform="translate(17.5117, 4.8047)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0267" fill="currentColor" stroke="currentColor" points="1.9514 0.3495 1.9514 0.8029 0.0133 0.2267 0.0133 -0.2267"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:11:12">
+<rect transform="translate(15.6883, 14.8927)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:65:66">
+<circle transform="translate(35.9804, 8.0927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(35.6845, 8.4110)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:66:67">
+<path transform="translate(35.6162, 3.6301) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<rect transform="translate(36.4720, 6.5927)" x="-0.0365" y="-2.2226" width="0.0730" height="3.5298" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:13:14">
+<circle transform="translate(17.0566, 7.5927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(16.6981, 7.9105)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:15:16">
+<path transform="translate(16.6184, 4.0647) scale(0.0022, -0.0022)" d="M208 319c21 13 42 27 57 47c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173
+c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 8 2 16 8 20z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:11:12">
+<text transform="translate(16.5285, 12.0927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>sem</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:14:15">
+<text transform="translate(16.5285, 14.8927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>lém</tspan>
+</text>
+</a>
+<rect transform="translate(17.5482, 6.5927)" x="-0.0365" y="-1.7774" width="0.0730" height="2.5846" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:7:8">
+<circle transform="translate(13.8294, 7.5927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(13.4709, 7.9105)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:10:11">
+<path transform="translate(13.3913, 4.0647) scale(0.0022, -0.0022)" d="M208 319c21 13 42 27 57 47c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173
+c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 8 2 16 8 20z" fill="currentColor"/>
+</a>
+<path transform="translate(5.5421, 7.5927) scale(0.0040, -0.0040)" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:8:6:7">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:10:6:7">
+<path transform="translate(9.8673, 6.5927) scale(0.0040, -0.0040)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+<path transform="translate(9.7421, 8.6087) scale(0.0040, -0.0040)" d="M208 319c21 13 42 27 57 47c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173
+c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 8 2 16 8 20z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:5:6">
+<text transform="translate(12.6856, 12.0927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>Ne</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:6:7">
+<text transform="translate(12.1507, 14.8927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>zbet</tspan>
+</text>
+</a>
+<rect transform="translate(14.3210, 6.5927)" x="-0.0365" y="-2.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:20:21">
+<circle transform="translate(18.9483, 8.5927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(18.6524, 8.9110)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:33:34">
+<circle transform="translate(23.2317, 8.0927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(22.9358, 8.4110)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:34:35">
+<path transform="translate(22.8675, 3.6301) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<rect transform="translate(23.7232, 6.5927)" x="-0.0365" y="-2.2226" width="0.0730" height="3.5298" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:40:41">
+<circle transform="translate(26.5782, 7.5927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(26.2197, 7.9105)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:42:43">
+<path transform="translate(26.1400, 4.0647) scale(0.0022, -0.0022)" d="M208 319c21 13 42 27 57 47c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173
+c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 8 2 16 8 20z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:19:20">
+<text transform="translate(25.6108, 12.0927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>no</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:25:26">
+<text transform="translate(25.2750, 14.8927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>kra</tspan>
+</text>
+</a>
+<rect transform="translate(27.0698, 6.5927)" x="-0.0365" y="-2.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<rect transform="translate(21.8316, 6.5927)" x="-0.0365" y="-2.7774" width="0.0730" height="3.0846" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:21:22">
+<text transform="translate(20.8119, 14.8927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>ské</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:15:16">
+<text transform="translate(20.8119, 12.0927)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>vám</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:29:30">
+<path transform="translate(20.9701, 3.0754) scale(0.0022, -0.0022)" d="M42 500c45 -8 91 -13 137 -13s92 5 137 13c13 2 21 -9 15 -15c-68 -68 -167 -87 -263 -87c-8 0 -15 -7 -15 -15v-108c28 28 65 47 104 47c115 0 184 -51 184 -161c0 -92 -83 -161 -179 -161c-82 0 -162 38 -162 111c0 36 29 65 65 65s65 -29 65 -65
+c0 -25 -40 -28 -40 -53c0 -30 37 -37 72 -37c57 0 70 73 70 140c0 65 -18 134 -75 134c-42 0 -82 -15 -106 -48c-3 -4 -7 -5 -11 -5c-7 0 -13 5 -13 13v230c0 9 7 16 15 15z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:23:24">
+<path transform="translate(18.5443, 4.0647) scale(0.0022, -0.0022)" d="M236 355c0 61 -22 124 -75 124c-25 0 -48 -14 -48 -37c0 -27 35 -41 35 -68c0 -38 -31 -69 -69 -69s-68 31 -68 69c0 75 71 126 150 126c95 0 184 -57 184 -145c0 -158 -162 -160 -257 -229c12 3 24 5 37 5c32 0 67 -10 101 -33c23 -16 49 -25 70 -25c20 0 37 8 42 28
+c1 6 6 8 10 8c5 0 11 -4 11 -10c0 -63 -85 -99 -132 -99c-35 0 -69 14 -94 42c-14 16 -32 23 -50 23c-30 0 -59 -21 -62 -55c-1 -7 -5 -10 -10 -10c-6 0 -12 4 -11 12c15 174 236 164 236 343z" fill="currentColor"/>
+</a>
+<rect transform="translate(19.4399, 6.5927)" x="-0.0365" y="-1.2226" width="0.0730" height="3.0298" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:28:29">
+<circle transform="translate(21.3400, 7.0927)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(21.0042, 7.4110)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+</a>
+<line transform="translate(1.8969, 28.8366)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 27.8366)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 26.8366)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 25.8366)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 24.8366)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<rect transform="translate(1.8969, 29.8366)" x="23.2256" y="-0.0781" width="1.5843" height="0.1562" ry="0.0781" fill="currentColor"/>
+<rect transform="translate(24.1318, 26.8366)" x="0.0000" y="-2.0000" width="0.1068" height="4.0000" ry="0.0000" fill="currentColor"/>
+<path transform="translate(36.6992, 26.3366) scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
+<path transform="translate(36.6992, 27.3366) scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
+<rect transform="translate(37.5999, 26.8366)" x="0.0000" y="-2.0000" width="0.3371" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(37.3245, 26.8366)" x="0.0000" y="-2.0000" width="0.1068" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(26.4062, 26.8366)" x="-0.0365" y="-0.5000" width="0.0730" height="3.2370" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:58:59">
+<text transform="translate(24.8960, 35.1366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>te.</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:56:57">
+<text transform="translate(24.8960, 32.3366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>te,</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:108:109">
+<path transform="translate(25.5846, 24.3085) scale(0.0022, -0.0022)" d="M164 487c17 0 54 29 54 -2v-376c0 -45 26 -88 68 -88c7 0 11 -5 11 -10s-4 -11 -11 -11c-41 0 -81 13 -122 13s-82 -13 -123 -13c-7 0 -11 6 -11 11s4 10 11 10c42 0 68 43 68 88v258c0 11 -8 17 -15 17c-4 0 -7 -2 -9 -6l-61 -139c-2 -6 -6 -8 -11 -8c-7 0 -14 5 -14 13
+c0 2 0 4 1 6l109 250c2 5 9 3 15 0c13 -6 26 -13 40 -13z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:106:107">
+<circle transform="translate(25.9146, 29.8366)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<circle transform="translate(25.9146, 29.8366)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4550"/>
+</g>
+<text transform="translate(25.5960, 30.1544)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</a>
+<rect transform="translate(21.9977, 26.8366)" x="-0.0365" y="-0.9974" width="0.0730" height="2.8046" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:100:101">
+<path transform="translate(21.1420, 24.3085) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:97:98">
+<circle transform="translate(21.5062, 28.8366)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(21.2103, 29.1548)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:37:38">
+<rect transform="translate(10.3761, 32.3366)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:44:45">
+<rect transform="translate(10.3761, 35.1366)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:84:85">
+<polygon transform="translate(13.2088, 25.6247)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0267" fill="currentColor" stroke="currentColor" points="3.2272 -0.8029 3.2272 -0.3495 0.0133 0.2267 0.0133 -0.2267"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:83:84">
+<path transform="translate(12.2256, 26.8366)" stroke-width="0.0450" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6193 3.0281C1.6249 3.5473 3.1763 3.1310 3.7868 2.1781L3.7868 2.1781C3.1588 3.0659 1.6075 3.4822 0.6193 3.0281z"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:45:46">
+<rect transform="translate(16.4292, 32.3366)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:95:96">
+<path transform="translate(18.0606, 26.8366)" stroke-width="0.0450" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.5876 3.5281C1.4663 4.0918 2.8642 3.8522 3.5050 3.0281L3.5050 3.0281C2.8528 3.7858 1.4549 4.0254 0.5876 3.5281z"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:53:54">
+<rect transform="translate(22.7872, 32.3366)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:55:56">
+<rect transform="translate(22.3433, 35.1366)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<polygon transform="translate(19.0437, 26.0485)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0267" fill="currentColor" stroke="currentColor" points="2.9772 -0.4386 2.9772 0.0148 0.0133 0.2267 0.0133 -0.2267"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:111:112">
+<path transform="translate(32.0266, 26.8366) scale(0.0040, -0.0040)" d="M-23 -113c0 26 10 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25c0 33 49 64 86 96c26 22 39 54 39 85c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -33 -49 -64 -86 -96
+c-26 -22 -39 -54 -39 -85c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-3 0 -7 1 -10 5c-19 22 -66 43 -102 43c-40 0 -52 -29 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204z" fill="currentColor"/>
+</a>
+<rect transform="translate(8.7165, 26.8366)" x="-0.0365" y="-2.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:41:42">
+<text transform="translate(7.2632, 35.1366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>po</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:34:35">
+<text transform="translate(7.2632, 32.3366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>po</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:74:75">
+<path transform="translate(7.8551, 24.3085) scale(0.0022, -0.0022)" d="M42 500c45 -8 91 -13 137 -13s92 5 137 13c13 2 21 -9 15 -15c-68 -68 -167 -87 -263 -87c-8 0 -15 -7 -15 -15v-108c28 28 65 47 104 47c115 0 184 -51 184 -161c0 -92 -83 -161 -179 -161c-82 0 -162 38 -162 111c0 36 29 65 65 65s65 -29 65 -65
+c0 -25 -40 -28 -40 -53c0 -30 37 -37 72 -37c57 0 70 73 70 140c0 65 -18 134 -75 134c-42 0 -82 -15 -106 -48c-3 -4 -7 -5 -11 -5c-7 0 -13 5 -13 13v230c0 9 7 16 15 15z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:72:73">
+<circle transform="translate(8.2249, 27.8366)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(7.8664, 28.1544)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<path transform="translate(2.6969, 27.8366) scale(0.0040, -0.0040)" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" fill="currentColor"/>
+<text transform="translate(0.7815, 23.7837)" font-family="serif" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:87:88">
+<path transform="translate(15.5513, 24.3085) scale(0.0022, -0.0022)" d="M42 500c45 -8 91 -13 137 -13s92 5 137 13c13 2 21 -9 15 -15c-68 -68 -167 -87 -263 -87c-8 0 -15 -7 -15 -15v-108c28 28 65 47 104 47c115 0 184 -51 184 -161c0 -92 -83 -161 -179 -161c-82 0 -162 38 -162 111c0 36 29 65 65 65s65 -29 65 -65
+c0 -25 -40 -28 -40 -53c0 -30 37 -37 72 -37c57 0 70 73 70 140c0 65 -18 134 -75 134c-42 0 -82 -15 -106 -48c-3 -4 -7 -5 -11 -5c-7 0 -13 5 -13 13v230c0 9 7 16 15 15z" fill="currentColor"/>
+</a>
+<rect transform="translate(19.0803, 26.8366)" x="-0.0365" y="-0.7907" width="0.0730" height="3.0979" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:51:52">
+<text transform="translate(18.0606, 35.1366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>dej</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:48:49">
+<text transform="translate(18.0606, 32.3366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>chej</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:93:94">
+<path transform="translate(18.1847, 24.3085) scale(0.0022, -0.0022)" d="M236 355c0 61 -22 124 -75 124c-25 0 -48 -14 -48 -37c0 -27 35 -41 35 -68c0 -38 -31 -69 -69 -69s-68 31 -68 69c0 75 71 126 150 126c95 0 184 -57 184 -145c0 -158 -162 -160 -257 -229c12 3 24 5 37 5c32 0 67 -10 101 -33c23 -16 49 -25 70 -25c20 0 37 8 42 28
+c1 6 6 8 10 8c5 0 11 -4 11 -10c0 -63 -85 -99 -132 -99c-35 0 -69 14 -94 42c-14 16 -32 23 -50 23c-30 0 -59 -21 -62 -55c-1 -7 -5 -10 -10 -10c-6 0 -12 4 -11 12c15 174 236 164 236 343z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:92:93">
+<circle transform="translate(18.5887, 29.3366)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(18.2245, 29.6548)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</a>
+<rect transform="translate(16.4128, 26.8366)" x="-0.0365" y="-1.7816" width="0.0730" height="2.5888" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:86:87">
+<circle transform="translate(15.9212, 27.8366)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(15.5627, 28.1544)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:77:78">
+<circle transform="translate(12.7537, 28.8366)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(12.4578, 29.1548)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:12:81:82">
+<path transform="translate(12.3895, 24.3085) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<rect transform="translate(13.2453, 26.8366)" x="-0.0365" y="-1.2184" width="0.0730" height="3.0256" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:37:47:48">
+<text transform="translate(12.2256, 35.1366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>zor</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:30:40:41">
+<text transform="translate(12.2256, 32.3366)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>slou</tspan>
+</text>
+</a>
+<line transform="translate(1.8969, 49.0804)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 48.0804)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 47.0804)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 46.0804)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<line transform="translate(1.8969, 45.0804)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0562" stroke="currentColor" x1="0.0281" y1="-0.0000" x2="36.0121" y2="-0.0000"/>
+<path transform="translate(36.6992, 46.5804) scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
+<path transform="translate(36.6992, 47.5804) scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
+<rect transform="translate(37.5999, 47.0804)" x="0.0000" y="-2.0000" width="0.3371" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(37.3245, 47.0804)" x="0.0000" y="-2.0000" width="0.1068" height="4.0000" ry="0.0000" fill="currentColor"/>
+<path transform="translate(6.7429, 46.5804) scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
+<path transform="translate(6.7429, 47.5804) scale(0.0040, -0.0040)" d="M0 0c0 32 25 57 57 57s57 -25 57 -57s-25 -57 -57 -57s-57 25 -57 57z" fill="currentColor"/>
+<rect transform="translate(6.4676, 47.0804)" x="0.0000" y="-2.0000" width="0.1068" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(5.9619, 47.0804)" x="0.0000" y="-2.0000" width="0.3371" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(21.9241, 47.0804)" x="0.0000" y="-2.0000" width="0.1068" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(1.8969, 50.0804)" x="32.1212" y="-0.0781" width="1.5843" height="0.1562" ry="0.0781" fill="currentColor"/>
+<rect transform="translate(1.8969, 51.0804)" x="32.1212" y="-0.0781" width="1.5843" height="0.1562" ry="0.0781" fill="currentColor"/>
+<rect transform="translate(1.8969, 50.0804)" x="26.9693" y="-0.0781" width="1.5843" height="0.1562" ry="0.0781" fill="currentColor"/>
+<rect transform="translate(1.8969, 50.0804)" x="20.7963" y="-0.0781" width="1.5843" height="0.1562" ry="0.0781" fill="currentColor"/>
+<rect transform="translate(1.8969, 50.0804)" x="12.5118" y="-0.0781" width="1.5843" height="0.1562" ry="0.0781" fill="currentColor"/>
+<rect transform="translate(1.8969, 50.0804)" x="6.3388" y="-0.0781" width="1.5843" height="0.1562" ry="0.0781" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:49:50">
+<path transform="translate(29.2941, 44.5523) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:52:53">
+<circle transform="translate(32.0754, 49.5804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(31.7112, 49.8986)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:30:31">
+<text transform="translate(26.3702, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>ne</tspan>
+</text>
+</a>
+<rect transform="translate(27.8235, 47.0804)" x="-0.0365" y="-1.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<path transform="translate(27.8600, 45.5937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:48:49">
+<circle transform="translate(29.6583, 50.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(29.3396, 50.3982)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:36:37">
+<text transform="translate(29.1917, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>o</tspan>
+</text>
+</a>
+<rect transform="translate(30.1499, 47.0804)" x="-0.0365" y="-0.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<path transform="translate(30.1864, 46.5937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:45:46">
+<path transform="translate(26.9620, 44.5523) scale(0.0022, -0.0022)" d="M42 500c45 -8 91 -13 137 -13s92 5 137 13c13 2 21 -9 15 -15c-68 -68 -167 -87 -263 -87c-8 0 -15 -7 -15 -15v-108c28 28 65 47 104 47c115 0 184 -51 184 -161c0 -92 -83 -161 -179 -161c-82 0 -162 38 -162 111c0 36 29 65 65 65s65 -29 65 -65
+c0 -25 -40 -28 -40 -53c0 -30 37 -37 72 -37c57 0 70 73 70 140c0 65 -18 134 -75 134c-42 0 -82 -15 -106 -48c-3 -4 -7 -5 -11 -5c-7 0 -13 5 -13 13v230c0 9 7 16 15 15z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:41:42">
+<circle transform="translate(27.3319, 49.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(27.0360, 49.3986)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<rect transform="translate(23.9768, 47.0804)" x="-0.0365" y="-0.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:9:10">
+<rect transform="translate(11.0450, 53.8527)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:38:39">
+<rect transform="translate(30.1949, 53.8527)" x="0.0000" y="-0.4930" width="0.3822" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:33:34">
+<rect transform="translate(28.4127, 53.8527)" x="0.0000" y="-0.4930" width="0.6600" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:22:23">
+<rect transform="translate(18.6838, 53.8527)" x="0.0000" y="-0.4930" width="0.3196" height="0.0730" ry="0.0225" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:53:54">
+<path transform="translate(31.6373, 44.5523) scale(0.0022, -0.0022)" d="M208 319c21 13 42 27 57 47c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173
+c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 8 2 16 8 20z" fill="currentColor"/>
+</a>
+<path transform="translate(35.3383, 47.0937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+<rect transform="translate(35.3017, 47.0804)" x="-0.0365" y="-0.0000" width="0.0730" height="4.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:48:49">
+<text transform="translate(33.6038, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>ně,</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:58:59">
+<path transform="translate(34.4801, 44.5523) scale(0.0022, -0.0022)" d="M164 487c17 0 54 29 54 -2v-376c0 -45 26 -88 68 -88c7 0 11 -5 11 -10s-4 -11 -11 -11c-41 0 -81 13 -122 13s-82 -13 -123 -13c-7 0 -11 6 -11 11s4 10 11 10c42 0 68 43 68 88v258c0 11 -8 17 -15 17c-4 0 -7 -2 -9 -6l-61 -139c-2 -6 -6 -8 -11 -8c-7 0 -14 5 -14 13
+c0 2 0 4 1 6l109 250c2 5 9 3 15 0c13 -6 26 -13 40 -13z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:56:57">
+<circle transform="translate(34.8102, 51.5804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(34.4517, 51.8982)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<path transform="translate(32.6035, 46.0937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+<rect transform="translate(32.5670, 47.0804)" x="-0.0365" y="-1.0000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:41:42">
+<text transform="translate(30.6471, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>myl</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:12:13">
+<circle transform="translate(12.8744, 49.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(12.5785, 49.3986)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:8:9">
+<circle transform="translate(9.0278, 50.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(8.7091, 50.3982)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:9:10">
+<path transform="translate(8.6977, 44.5523) scale(0.0022, -0.0022)" d="M164 487c17 0 54 29 54 -2v-376c0 -45 26 -88 68 -88c7 0 11 -5 11 -10s-4 -11 -11 -11c-41 0 -81 13 -122 13s-82 -13 -123 -13c-7 0 -11 6 -11 11s4 10 11 10c42 0 68 43 68 88v258c0 11 -8 17 -15 17c-4 0 -7 -2 -9 -6l-61 -139c-2 -6 -6 -8 -11 -8c-7 0 -14 5 -14 13
+c0 2 0 4 1 6l109 250c2 5 9 3 15 0c13 -6 26 -13 40 -13z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:4:5">
+<text transform="translate(7.4060, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>Slyš</tspan>
+</text>
+</a>
+<rect transform="translate(9.5194, 47.0804)" x="-0.0365" y="-0.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:16:17">
+<path transform="translate(12.5102, 44.5523) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:12:13">
+<text transform="translate(12.1005, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>te</tspan>
+</text>
+</a>
+<rect transform="translate(13.3660, 47.0804)" x="-0.0365" y="-1.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<path transform="translate(13.4025, 45.5937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:28:29">
+<text transform="translate(23.0243, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+</a>
+<path transform="translate(2.6969, 48.0804) scale(0.0040, -0.0040)" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" fill="currentColor"/>
+<text transform="translate(0.7815, 44.0276)" font-family="serif" font-size="1.7463" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:38:39">
+<path transform="translate(23.1211, 44.5523) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:35:36">
+<circle transform="translate(23.4853, 50.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(23.1666, 50.3982)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<path transform="translate(20.5632, 44.5937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+<rect transform="translate(20.5266, 47.0804)" x="-0.0365" y="-2.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:25:26">
+<text transform="translate(19.0734, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>ně</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:30:31">
+<path transform="translate(19.6652, 44.5523) scale(0.0022, -0.0022)" d="M42 500c45 -8 91 -13 137 -13s92 5 137 13c13 2 21 -9 15 -15c-68 -68 -167 -87 -263 -87c-8 0 -15 -7 -15 -15v-108c28 28 65 47 104 47c115 0 184 -51 184 -161c0 -92 -83 -161 -179 -161c-82 0 -162 38 -162 111c0 36 29 65 65 65s65 -29 65 -65
+c0 -25 -40 -28 -40 -53c0 -30 37 -37 72 -37c57 0 70 73 70 140c0 65 -18 134 -75 134c-42 0 -82 -15 -106 -48c-3 -4 -7 -5 -11 -5c-7 0 -13 5 -13 13v230c0 9 7 16 15 15z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:29:30">
+<circle transform="translate(20.0351, 48.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(19.6766, 48.3982)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<path transform="translate(18.1460, 45.5937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+<rect transform="translate(18.1095, 47.0804)" x="-0.0365" y="-1.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:18:19">
+<text transform="translate(16.6221, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>pil</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:23:24">
+<circle transform="translate(17.6179, 49.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(17.3220, 49.3986)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:26:27">
+<path transform="translate(17.2537, 44.5523) scale(0.0022, -0.0022)" d="M147 479c-28 0 -58 -9 -58 -33c0 -22 36 -25 36 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 63 66 101 136 101c90 0 165 -35 165 -115c0 -44 -3 -83 -41 -101c-8 -4 -13 -12 -13 -20s5 -16 13 -20c41 -19 55 -58 55 -104c0 -91 -77 -140 -175 -140
+c-77 0 -151 41 -151 111c0 36 29 65 65 65s65 -29 65 -65c0 -25 -40 -28 -40 -53c0 -26 31 -37 61 -37c50 0 66 61 66 119c0 62 -1 110 -54 110h-82c-9 0 -13 7 -13 14s4 13 13 13h82c52 0 54 47 54 108c0 56 -18 94 -70 94z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:19:20">
+<circle transform="translate(15.2008, 50.0804)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5281"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(14.8822, 50.3982)" font-family="sans-serif" font-weight="bold" font-size="0.8730" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:17:20:21">
+<path transform="translate(14.8708, 44.5523) scale(0.0022, -0.0022)" d="M164 487c17 0 54 29 54 -2v-376c0 -45 26 -88 68 -88c7 0 11 -5 11 -10s-4 -11 -11 -11c-41 0 -81 13 -122 13s-82 -13 -123 -13c-7 0 -11 6 -11 11s4 10 11 10c42 0 68 43 68 88v258c0 11 -8 17 -15 17c-4 0 -7 -2 -9 -6l-61 -139c-2 -6 -6 -8 -11 -8c-7 0 -14 5 -14 13
+c0 2 0 4 1 6l109 250c2 5 9 3 15 0c13 -6 26 -13 40 -13z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mojzis/pers/noty/lilywork/score_only/nesem_vam_noviny.ly:31:15:16">
+<text transform="translate(14.5009, 53.8527)" font-family="serif" font-size="1.5556" text-anchor="start" fill="currentColor">
+<tspan>je</tspan>
+</text>
+</a>
+<rect transform="translate(15.6924, 47.0804)" x="-0.0365" y="-0.5000" width="0.0730" height="3.3072" ry="0.0133" fill="currentColor"/>
+<path transform="translate(15.7289, 46.5937) scale(0.0040, -0.0040)" d="M0 0v-250h-14v250h14zM0 0c0 -198 207 -336 207 -534c0 -71 -16 -142 -42 -208c-4 -7 -10 -11 -17 -11c-12 0 -24 10 -21 25c26 62 41 127 41 194c0 104 -96 209 -168 284v250z" fill="currentColor"/>
+</svg>
