@@ -4,30 +4,38 @@ Songs
 {% endblock %}
 {% block ogtitle %}Songs{% endblock %}
 {% block ogimage %}https://noticky.netlify.app/ogimg/home.png{% endblock %}
+{% block customhead%}
+<style type="text/css">
+ul {
+    list-style-type: none;
+}
+a.song {
+    font-weight: bold;
+}
+</style>
+{% endblock %}
 
 
 {% block content %}
 <h1>Notičky</h1>
-<p>
-<strong>Work in progress! :)</strong></br>
-please note that both the engravings and this page should eventually improve :).
-</p>
-<p>
-A few czech songs, mostly "Koledy" - Christmas Carols, made so that it would be easy for kids (or anyone) to play,
-with propper "fingerings" - the numbers above the notes indicating which finger to use for each note.
-</p>
-<p>
-Where necessary, the melody is transposed to c key to make it easier to play.
-</p>
 <ul>
 {% for song in songs %}
     <li>
-        <a href="songs/{{song.filename}}.html">{{song.title}}</a> &nbsp;
+        <a class="song" href="songs/{{song.filename}}.html">{{song.title}}</a> &nbsp;
         <a href="lilyout/{{song.filename}}.pdf">pdf</a>
     </li>
 {% endfor %}
 </ul>
 <p>
-Links lead to pdf files, a page / file for each song, made so that it would be as easy as possible to read while playing. 
+A few czech songs, mostly "Koledy" - Christmas Carols, made so that it would be easy for kids (or anyone) to play,
+with propper "fingerings" - the numbers above the notes indicating which finger to use for each note.
+</p>
+<p>
+Where necessary & meaningful, the melody is transposed to c key to make it easier to play.
+</p>
+<p>
+<strong>Work in progress! :)</strong><br>
+please note that both the engravings and this page should eventually improve :).<br>
+    In case you want to add some, check out the <a href="https://github.com/mojzis/noticky">github repo</a>.
 </p>
 {% endblock %}
