@@ -12,7 +12,8 @@
 \score {
 <<
 \new Staff {
-  \new Voice = "melody" \relative {
+  \new Voice = "melody" {
+    \relative {
     \easyHeadsOn
     \time 2/4
     \key f \major
@@ -22,6 +23,7 @@
       bes8 bes16([ d]) g,4 | a8 a16([ c]) f,4 | g8 g f16([ e]) d([ e]) | f8 a f a | \break
       bes bes16([ d]) g,4 | a8 a16([ c]) f,4 |   g8 g f16([ e]) d([ e]) | f8 a f4 \bar "|."
     }
+  }
   }
 }
 \new Lyrics \with {

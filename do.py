@@ -113,7 +113,17 @@ def publish():
 
 @click.command()
 def play():
-    print('for testing')
+    songs = load_songs()
+    ogi = pyvips.Image.black(1400, 700)
+    ogi = ogi.draw_flood(255, 0, 0)
+    for i in range(0, 5):
+        song = songs[i]
+        lim = pyvips.Image.new_from_file(f'work/ogimg/{song["filename"]}.cropped.png')
+        lim = lim.crop(0, 0, lim.width, 123)
+        ogi = ogi.insert(lim, (1400-lim.width)/2, 125*i + 25, expand=False, background=255)
+        # ogi = ogi.join(lim, direction='top-bottom', expand=True, shim=3, background=225, align='centre')
+    ogi.write_to_file(f'public/ogimg/home.png')
+
 
 main.add_command(publish)
 main.add_command(play)
