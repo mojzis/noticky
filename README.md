@@ -31,7 +31,8 @@
 ## NTH
 
 - better footer
-- make it into a book
+- make it into a lily book
+- some notes about nicer ways of listening to charols
 
 ## questions
 - how to transpose chords for guitar ? should we ?

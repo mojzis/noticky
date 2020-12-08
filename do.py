@@ -23,8 +23,8 @@ def load_songs():
         f = open(song, 'r')
         text = f.read()
         f.close()
-        title_match = re.search('title = \"(?P<title>.+)\"',text)
-        section_match = re.search('section = \"(?P<section>.+)\"',text)
+        title_match = re.search('title = \"(?P<title>.+)\"', text)
+        section_match = re.search('section = \"(?P<section>.+)\"', text)
         score_re = re.compile(r"\\score {\n(?P<score><<(\n.+)+\n>>)", re.MULTILINE)
         score_match = re.search(score_re, text)
         lyrics_re = re.compile(r"\\line {(?P<lyri>.+)}")
@@ -33,8 +33,8 @@ def load_songs():
             'filename': filename,
             'title': title_match.groupdict().get('title'),
             'score': score_match.groupdict().get('score', 'nada'),
-            'lyrics': lyrics_match
-            # 'section' : section_match.groupdict().get('section'),
+            'lyrics': lyrics_match,
+            'section': section_match.groupdict().get('section'),
             })
     return results
 
@@ -53,6 +53,7 @@ def prepare_svg(song):
     """ Take the score part of the ly file and generate and svg for the top of the page. """
     first_line = '#(set-global-staff-size 34)'
     score = first_line + '\n' + song['score']
+    # score = score.replace('\easyHeadsOn', '\easyHeadsOff')
     with open(f'{SCORE_ONLY_PATH}/{song["filename"]}.ly', 'w') as so:
         so.write(score)
 
@@ -61,6 +62,7 @@ def prepare_svg(song):
         '-fsvg',
         '-dbackend=svg',
         '--output=public/heads',
+        '-dno-point-and-click',
         '-s',
         '-dcrop',
         f'{SCORE_ONLY_PATH}/{song["filename"]}.ly'
@@ -68,22 +70,23 @@ def prepare_svg(song):
     # lily is decided to create 2 files, delete the other one
     run_lily(options)
 
+def prepare_png(song):
+    # todo: add check whether exists !
+    options = [
+        '-fpng',
+        '--output=work/ogimg',
+        '-s',
+        '-dcrop',
+        f'{SCORE_ONLY_PATH}/{song["filename"]}.ly'
+    ]
+    run_lily(options)
+
 def generate_ogimage(song):
     """ prepare an image for the page to be used on the social media """
-    # options = [
-    #     '-fpng',
-    #     '--output=work/ogimg',
-    #     '-s',  # silent
-    #     '-dcrop',
-    #     f'{SCORE_ONLY_PATH}/{song["filename"]}.ly'
-    # ]
-    # run_lily(options)
-    svg = pyvips.Image.new_from_file(f'public/heads/{song["filename"]}.cropped.svg', dpi=180)
-    svg.write_to_file(f'work/ogimg/{song["filename"]}.png')
-    ogi = Image.new('RGB', (1400, 700), ImageColor.getrgb('white'))
-    notes = Image.open(f'work/ogimg/{song["filename"]}.png')
-    ogi.paste(notes)
-    ogi.save(f'public/ogimg/{song["filename"]}.png')
+    # TODO: add title as well
+    ogi = pyvips.Image.new_from_file(f'work/ogimg/{song["filename"]}.cropped.png')
+    ogi = ogi.embed((1400-ogi.width)/2, (700-ogi.height)/2, 1400, 700, extend='white')
+    ogi.write_to_file(f'public/ogimg/{song["filename"]}.png')
 
 
 @click.command()
@@ -96,8 +99,9 @@ def publish():
     )
     for song in songs:
         prepare_svg(song)
+        # prepare_png(song)
         generate_ogimage(song)
-        with open(f'public/songs/{song["filename"]}.html','w') as s:
+        with open(f'public/songs/{song["filename"]}.html', 'w') as s:
             s.write(env.get_template('song.html')
                 .render(song=song))
 
@@ -107,7 +111,12 @@ def publish():
     
     print(f'{len(songs)} songs listed in index')
 
+@click.command()
+def play():
+    print('for testing')
+
 main.add_command(publish)
+main.add_command(play)
 
 if __name__ == "__main__":
     main()

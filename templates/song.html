@@ -1,13 +1,9 @@
 {% extends "base.html" %}
 {% block title %}
-{{ song.title }}
+{{ song.section }} | {{ song.title }}
 {% endblock %}
-{% block ogtitle %}
-{{ song.title }}
-{% endblock %}
-{% block ogimage %}
-../ogimg/{{song.filename}}.png
-{% endblock %}
+{% block ogtitle %}{{ song.section }} - {{ song.title }}{% endblock %}
+{% block ogimage %}/ogimg/{{song.filename}}.png{% endblock %}
 {% block customhead%}
 <style type="text/css">
 .score {
