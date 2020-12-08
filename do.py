@@ -99,7 +99,7 @@ def publish():
     )
     for song in songs:
         prepare_svg(song)
-        # prepare_png(song)
+        prepare_png(song)
         generate_ogimage(song)
         with open(f'public/songs/{song["filename"]}.html', 'w') as s:
             s.write(env.get_template('song.html')
