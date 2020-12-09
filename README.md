@@ -33,6 +33,7 @@
 - better footer
 - make it into a lily book
 - some notes about nicer ways of listening to charols
+- online play guide - highlight notes in rhytm
 
 ## questions
 - how to transpose chords for guitar ? should we ?

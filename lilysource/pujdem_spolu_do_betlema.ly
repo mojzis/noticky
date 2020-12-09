@@ -18,7 +18,7 @@
     \time 2/4
     \key f \major
     \autoBeamOff
-    f'8 f c c | a' a f f | b16([ c]) d([ c]) bes([ c]) d([ c]) | b[( c)] d([ bes]) c4 | \break
+    f'8 f c c | a' a f f | b16([ c]) d([ c]) b([ c]) d([ c]) | b[( c)] d([ b]) c4 | \break
     \repeat volta 2 {
       bes8 bes16([ d]) g,4 | a8 a16([ c]) f,4 | g8 g f16([ e]) d([ e]) | f8 a f a | \break
       bes bes16([ d]) g,4 | a8 a16([ c]) f,4 |   g8 g f16([ e]) d([ e]) | f8 a f4 \bar "|."

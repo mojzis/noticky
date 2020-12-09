@@ -1,4 +1,4 @@
-#(set-global-staff-size 32)
+#(set-global-staff-size 34)
 #(set-default-paper-size "a4" 'landscape)
 \version "2.20.0"
 \layout {
@@ -55,16 +55,16 @@ theChords = \chordmode {
 }
 >>
 \layout {
-  #(layout-set-staff-size 56)
+  #(layout-set-staff-size 50)
 }
 }
 \markup {
-  \vspace #0.3
+  \vspace #2
   \column {
     \line { Syna porodila čistá Panna, }
     \line {v jesličky vložila Krista pána,}
     \line {|: jej ovinula a zavinula :| plenčičkama}
-    \vspace #0.3
+    \vspace #0.5
     \line { Andělé v oblacích prozpěvují,}
     \line { narození Páně ohlašují,}
     \line { |: že jest narozen, v jeslích položen :| oznamují.}

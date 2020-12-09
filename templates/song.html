@@ -6,8 +6,13 @@
 {% block ogimage %}https://noticky.eu/ogimg/{{song.filename}}.png{% endblock %}
 {% block customhead%}
 <style type="text/css">
+h1 {
+    margin-bottom: 1rem;
+}
 .score {
-    width: 100%
+    width: 100%;
+    height: auto;
+    padding-bottom: 1rem;
 }
 .lyrics p {
     margin: 0.1rem;
@@ -16,7 +21,7 @@
 {% endblock %}
 {% block content %}
 <h1>{{ song.title }}</h1>
-<img src="../heads/{{ song.filename }}.cropped.svg" class="score" alt="Noty - {{ song.title }}">
+    {% include 'heads/' + song.filename + '.svg' %}
 <div class="lyrics">
     {% for line in song.lyrics %}
     <p>{{ line }}</p>
