@@ -3,7 +3,7 @@
 {{ song.section }} | {{ song.title }}
 {% endblock %}
 {% block ogtitle %}{{ song.section }} - {{ song.title }}{% endblock %}
-{% block ogimage %}https://noticky.netlify.app/ogimg/{{song.filename}}.png{% endblock %}
+{% block ogimage %}https://noticky.eu/ogimg/{{song.filename}}.png{% endblock %}
 {% block customhead%}
 <style type="text/css">
 .score {
@@ -16,7 +16,7 @@
 {% endblock %}
 {% block content %}
 <h1>{{ song.title }}</h1>
-<img src="../heads/{{ song.filename }}.cropped.svg" class="score">
+<img src="../heads/{{ song.filename }}.cropped.svg" class="score" alt="Noty - {{ song.title }}">
 <div class="lyrics">
     {% for line in song.lyrics %}
     <p>{{ line }}</p>

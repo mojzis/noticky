@@ -97,6 +97,7 @@ def publish():
     env = Environment(
         loader=FileSystemLoader('templates'),
     )
+    sitemap = ['https://noticky.eu/index.html']
     for song in songs:
         prepare_svg(song)
         prepare_png(song)
@@ -104,11 +105,15 @@ def publish():
         with open(f'public/songs/{song["filename"]}.html', 'w') as s:
             s.write(env.get_template('song.html')
                 .render(song=song))
+        sitemap.append(f'https://noticky.eu/songs/{song["filename"]}.html')
 
     # todo separate sections
     with open('public/index.html', 'w') as f:
         f.write(env.get_template('index.html').render(songs=songs))
-    
+
+    with open('public/sitemap.txt', 'w') as sm:
+        sm.write('\n'.join(sitemap))
+
     print(f'{len(songs)} songs listed in index')
 
 @click.command()
