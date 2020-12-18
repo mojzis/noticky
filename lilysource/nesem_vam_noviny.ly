@@ -57,6 +57,7 @@ theChords = \chordmode {
 \layout {
   #(layout-set-staff-size 50)
 }
+\midi {}
 }
 \markup {
   \vspace #2

@@ -40,6 +40,7 @@
 \layout {
   #(layout-set-staff-size 56)
 }
+\midi {}
 }
 \markup {
   \vspace #0.3

@@ -31,6 +31,7 @@
 \layout {
   #(layout-set-staff-size 56)
 }
+\midi {}
 }
 \markup {
   \column {

@@ -11,6 +11,14 @@
 }
 \score {
 <<
+\new ChordNames {
+  \transpose d c
+  \chordmode {
+  \time 2/4
+  d2 g4 a4 d2 d2 g2
+  a2:7 d1 d4 a4:7 d2
+}
+}
 \new Staff {
   \new Voice = "melody" {
     \transpose d c
@@ -18,7 +26,7 @@
       \easyHeadsOn
       \time 2/4
       \key d \major
-      d' fis | g8 fis e4 | d  r4 | fis a | a8[ g] g b | \break
+      d'4 fis | g8 fis e4 | d  r4 | fis a | a8[ g] g b | \break
       e,4 g | g8[ fis] fis a | d,4 fis | g8 fis e4 | d r4 | 
       \bar "|."
     }
@@ -34,6 +42,7 @@
 \layout {
   #(layout-set-staff-size 40)
 }
+\midi {}
 }
 \markup {
   \vspace #0.5

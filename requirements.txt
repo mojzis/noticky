@@ -1,2 +1,5 @@
+mistune
+pyvips
 click
 jinja2
+python-frontmatter

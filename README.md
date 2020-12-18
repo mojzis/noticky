@@ -4,19 +4,20 @@
 
 ## About
 
-An attempt to prepare note sheets for our kids to be able to learn playing piano.
-PDF for print or html online. 
+An attempt to prepare note sheets for our kids to be able to learn playing piano.  
+PDF for print or html online (should be easily visible even on mobile devices).
 
 ## Songs to add
 
 ### carols
 
-- stedrej vecer nastal
 - stesti zdravi
 - https://sborkytlice.files.wordpress.com/2014/01/volek-a-oslc3adk.pdf
+- good king wenceslas
 
-## Features to add Each song
+## Features to add for Each song
 
+- fingerings
 - guitar cords
 
 ## Site todo
@@ -24,22 +25,34 @@ PDF for print or html online.
 - listing per type (koledy, lidovky, ?)
 - options for downloading pdfs (portrait / landscape, easy heads, chords ...)
 - about page with tips and links
+- changelog
 - better footer
+- search
+- google - / vs index.html - switch in sitemap ? cannonical ?
+- footer
 
 ## Script to do
+
 - refactor load_songs
-- review all directories, cleanup
+- review all directories in the repo, cleanup
 - params to select what will be done
+- nice logging
+- make the generation run on github ?!
+- auto check
+  - broken links,
+  - pdfs only 1 page,
 
 ## Learn lilypond
-- optional printing of features
+- optional printing of features (fingerings ?)
 - extracting lyrics
 
 ## NTH
-- make it into a lily book
+- print sets / sections into 1 pdf
 - some notes about nicer ways of listening to charols
 - online play guide - highlight notes in rhytm
 - play midi ?
+- info about transpositions, possibility to see original
+- translations ?
 
 ## questions
 - how to transpose chords for guitar ? should we ?

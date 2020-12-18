@@ -2,9 +2,7 @@
 <html lang="cs">
 
 <head>
-    <title>
-Songs
-</title>
+    <title></title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -17,10 +15,10 @@ Songs
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <meta name="twitter:card" content="summary_large_image"></meta>
-    <meta property="og:title" content="Songs" />
+    <meta property="og:title" content="" />
     <meta property="og:description" content="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along." />
     <meta name="Description" CONTENT="Notes for a few czech songs, namely Christmas Carols to play on piano and sing along.">
-    <meta property="og:image" content="https://noticky.eu/ogimg/home.png" />
+    <meta property="og:image" content="" />
     <style type="text/css">
         /* from https://vanillacss.com/vanilla.css */
         /* Reset */
@@ -226,74 +224,56 @@ Songs
     </style>
     <script async defer data-domain="noticky.eu" src="https://plausible.io/js/plausible.js"></script>
     
-<style type="text/css">
-ul {
-    list-style-type: none;
-}
-a.song {
-    font-weight: bold;
-}
-</style>
 
 </head>
 <body>
 <div>
-<h1>Notičky</h1>
+<h1>Noticky</h1>
+<p>Songs notes engraved to be easy for kids (or beginners) to play and sing.</p>
+<p>I started working on this project while being sick at home and trying to get my brain back to speed. I saw the kids trying to play on their Yamaha keyboard. They actually preferred this annoying toy book which had color coded notes and piano keys and made it super easy to produce something close to a melody.<br>
+So I thought it would be nice to be able to provide them an easy way to play on the "proper" piano as well. My wife put little stickers with note names on the keys of the keyboard, so all we needed was notes with names in them.<br>
+<a href="http://lilypond.org/">LilyPond</a>, among the million of other features allows for that, too :). So I started "engraving" notes in LilyPond, only to figure out its actually a bit harder then I thought. But the results were so beautiful and hearing our boys play was so gratifying that I kept on adding songs. Because its the season, its Christmas Carols now, but we are hoping to add more.</p>
+<p>Some of the songs we found were a bit too difficult to play for us (all the #s) so they are "transposed" for now to the key of c.</p>
+<p>Then the magic call happened when a dear auntie helped me figure out the fingerings - while sitting at her piano and talking to me on phone (corona times ...) and asking me to try to play it, transposing songs directly from her head (unlike me there are people who actually know about music in our remote family, i can only admire them :).</p>
+<p>I figured I might as well try to share the whole effort with others, hence this little website :). The main focus is downloadable printable sheets you can put on your piano and play. But the html version got a bit better too and might be usable directly on tablets/ bigger phones.</p>
+<p>This is very much a <strong>learning process</strong></p>
 <ul>
-
-    <li>
-        <a class="song" href="songs/byla_cesta_byla_uslapana.html">Byla cesta byla ušlapaná</a> &nbsp;
-        <a href="lilyout/byla_cesta_byla_uslapana.pdf">pdf</a>
-    </li>
-
-    <li>
-        <a class="song" href="songs/narodil_se_kristus_pan.html">Narodil se Kristus Pán</a> &nbsp;
-        <a href="lilyout/narodil_se_kristus_pan.pdf">pdf</a>
-    </li>
-
-    <li>
-        <a class="song" href="songs/nesem_vam_noviny.html">Nesem vám noviny</a> &nbsp;
-        <a href="lilyout/nesem_vam_noviny.pdf">pdf</a>
-    </li>
-
-    <li>
-        <a class="song" href="songs/pasli_ovce_valasi.html">Pásli ovce valaši</a> &nbsp;
-        <a href="lilyout/pasli_ovce_valasi.pdf">pdf</a>
-    </li>
-
-    <li>
-        <a class="song" href="songs/pujdem_spolu_do_betlema.html">Půjdem spolu do Betléma</a> &nbsp;
-        <a href="lilyout/pujdem_spolu_do_betlema.pdf">pdf</a>
-    </li>
-
-    <li>
-        <a class="song" href="songs/skakal_pes.html">Skákal pes</a> &nbsp;
-        <a href="lilyout/skakal_pes.pdf">pdf</a>
-    </li>
-
-    <li>
-        <a class="song" href="songs/stedrej_vecer_nastal.html">Štědrej večer nastal</a> &nbsp;
-        <a href="lilyout/stedrej_vecer_nastal.pdf">pdf</a>
-    </li>
-
-    <li>
-        <a class="song" href="songs/vesele_vanocni_hody.html">Veselé vánoční hody</a> &nbsp;
-        <a href="lilyout/vesele_vanocni_hody.pdf">pdf</a>
-    </li>
-
+<li>how to teach kids at home without knowing much myself,</li>
+<li>how to engrave properly, </li>
+<li>how to manipulate the engraved music (current implementation is <a href="https://github.com/mojzis/noticky/blob/main/do.py#L52">hacky</a> and naive but works for now :) </li>
+<li>how to setup a single static website so that it has everything a website should have ... </li>
 </ul>
-<p>
-A few czech songs, mostly "Koledy" - Christmas Carols, made so that it would be easy for kids (or anyone) to play,
-with propper "fingerings" - the numbers above the notes indicating which finger to use for each note.
-</p>
-<p>
-Where necessary & meaningful, the melody is transposed to c key to make it easier to play.
-</p>
-<p>
-<strong>Work in progress! :)</strong><br>
-please note that both the engravings and this page should eventually improve :).<br>
-    In case you want to add some, check out the <a href="https://github.com/mojzis/noticky">github repo</a>.
-</p>
-    <nav class="footer"><a href="about.html">About</a></nav>
+<p>We enjoy it a lot, kids learning a new song every time I manage to print it.</p>
+<h2>Sources</h2>
+<ul>
+<li>Many songs are listed on the page of the choir <a href="https://sborkytlice.wordpress.com/uvodni-stranka/materialy-pro-sbor/noty/">Sbor Kytice</a></li>
+</ul>
+<h2>How is it made</h2>
+<p>Note engraving done with <a href="http://lilypond.org/">Lily Pond</a></p>
+<p>Tools to be checked / probably used in the future</p>
+<ul>
+<li><a href="https://www.frescobaldi.org/">https://www.frescobaldi.org/</a> - LilyPond editor</li>
+<li><a href="http://abjad.mbrsi.org/">http://abjad.mbrsi.org/</a> - music programming</li>
+<li><a href="https://notabug.org/chaosmonk/lpm/src/master">https://notabug.org/chaosmonk/lpm/src/master</a> - lily management</li>
+<li><a href="https://github.com/frescobaldi/python-ly">https://github.com/frescobaldi/python-ly</a> - used by the above, not exactly easy to use :)</li>
+</ul>
+<p>Might be interesting inspiration
+<a href="https://www.mutopiaproject.org/collections.html">https://www.mutopiaproject.org/collections.html</a> - also a lot of music :)</p>
+<ul>
+<li>Hosting: <a href="http://netlify.com/">netlify</a> - its really cool </li>
+<li>Analytics: Privacy friendly open analytics by <a href="https://plausible.io/noticky.eu">Plausible</a></li>
+<li>Favicons: <a href="https://realfavicongenerator.net/">https://realfavicongenerator.net/</a></li>
+</ul>
+<h2>License</h2>
+<p>As open as <a href="https://github.com/mojzis/noticky/blob/main/LICENSE">possible</a> - peruse this in whatever way suits you. Would be nice if you let me know :).</p>
+<h2>Privacy</h2>
+<p>see ma, no cookies :)</p>
+<h2>Get in touch</h2>
+<ul>
+<li><a href="https://twitter.com/mojzis">@mojzis</a>  </li>
+<li><a href="https://github.com/mojzis/noticky">github</a></li>
+<li>mojzis at hey.com</li>
+</ul>
+
 </div>
 </body>

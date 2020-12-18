@@ -7,6 +7,8 @@ import sys
 import hashlib
 
 import click
+import frontmatter
+import mistune
 from jinja2 import Environment, FileSystemLoader
 import pyvips
 
@@ -16,8 +18,8 @@ SOURCE_PATH = 'lilysource'
 
 LOGGING = True
 # for quick updates of irrelevant stuff, even if source file changed, lets allow to keep old
-KEEP_OLD_FILE = False
-GENERATE_ANYWAY = True
+KEEP_OLD_FILE = True
+GENERATE_ANYWAY = False
 SITE_DOMAIN = 'https://noticky.eu'
 
 
@@ -25,6 +27,20 @@ SITE_DOMAIN = 'https://noticky.eu'
 def main():
     """click"""
 
+
+def load_mds(path):
+    glob = pathlib.Path(path).glob("*.md")
+    results = []
+    md = mistune.Markdown()
+    for item in sorted(glob, reverse=True):
+        matter = frontmatter.load(item)
+        data = dict(matter)
+        # how wil this be printable though ?
+        data['body'] = md(matter.content)
+        data['filename'] = pathlib.Path(item).stem
+        results.append(data)
+
+    return results
 
 def load_songs():
     # todo: store the results in a file, only check here whether the hash has changed
@@ -186,6 +202,12 @@ def publish():
             s.write(env.get_template('song.html')
                 .render(song=song))
         sitemap.append(f'{SITE_DOMAIN}/songs/{song["filename"]}.html')
+
+    other_content = load_mds('content')
+
+    for piece in other_content:
+        with open(f'public/{piece["filename"]}.html', 'w') as cp:
+            cp.write(env.get_template('content.html').render(piece=piece))
 
     # todo separate sections
     with open('public/index.html', 'w') as f:
