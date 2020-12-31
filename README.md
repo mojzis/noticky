@@ -30,6 +30,9 @@ PDF for print or html online (should be easily visible even on mobile devices).
 - search
 - google - / vs index.html - switch in sitemap ? cannonical ?
 - footer
+- improve SVG
+ - switch off barnumber engraver
+- switch SVG variants (how though ?) 
 
 ## Script to do
 

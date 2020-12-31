@@ -42,6 +42,16 @@ https://www.mutopiaproject.org/collections.html - also a lot of music :)
 - Analytics: Privacy friendly open analytics by [Plausible](https://plausible.io/noticky.eu)
 - Favicons: https://realfavicongenerator.net/
 
+## How to use
+
+The PDFs are ment to be the easiest way to play, but it might actually work with the html version directly from your device, too. You might want to rotate the screen :).  
+If you want to hear the melody, you can try the `midi` file (available for download on each songs page).  
+On Ubuntu, the easiest way to play was to run 
+```bash
+timidity -T 200 nesem_vam_noviny.midi
+```
+(`-T 200` makes it a bit faster, I think it works better for some songs).
+
 ## Privacy
 see ma, no cookies :)
 

@@ -42,8 +42,8 @@ def load_mds(path):
 
     return results
 
+
 def load_songs():
-    # todo: store the results in a file, only check here whether the hash has changed
     metadata_path = 'log/metadata.json'
     try:
         with open(metadata_path) as metadata_file:

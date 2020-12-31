@@ -56,6 +56,10 @@ theChords = \chordmode {
 >>
 \layout {
   #(layout-set-staff-size 50)
+    \context {
+    \Score
+    \remove "Bar_number_engraver"
+  }
 }
 \midi {}
 }
