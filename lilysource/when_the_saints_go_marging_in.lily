@@ -1,0 +1,42 @@
+#(set-global-staff-size 34)
+#(set-default-paper-size "a4" 'landscape)
+\version "2.20.0"
+\layout {
+  indent = 0.0
+}
+\header {
+  title = "When The Saints Go Marching In"
+  section = "gospel"
+  tagline = ##f
+}
+\score {
+<<
+\new Staff {
+  \new Voice = "melody" {
+    \relative {
+      \key c \major
+      \easyHeadsOn
+      \time 4/4
+      s c' e f | g1 | r4 c, e f | g1 | r4 c, e f |
+      g2 e | c e | d1 | r4 e e d | c2. c4 | e2 g4 g | g f2. | 
+      r4 r e f | g2 e | c d | c1 | c4 \bar "|."
+    }
+  }
+}
+\new Lyrics \with {
+  \override LyricText #'font-size = #-3
+  } \lyricsto "melody" {
+    Oh when the saints go mar -- ching in,
+    Oh when the saints go mar -- ching in,
+    oh Lord I want to be in that num -- ber,
+    when the saints go mar -- ching in.
+  } 
+>>
+\layout {
+  #(layout-set-staff-size 50)
+    \context {
+    \Score
+    \remove "Bar_number_engraver"
+  }
+}
+}

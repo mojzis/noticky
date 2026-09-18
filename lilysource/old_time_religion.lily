@@ -1,0 +1,27 @@
+#(set-global-staff-size 34)
+#(set-default-paper-size "a4" 'landscape)
+\version "2.20.0"
+\layout {
+  indent = 0.0
+}
+\header {
+  title = "Old time religion"
+  section = "gospel"
+  tagline = ##f
+}
+\score {
+<<
+\new Staff {
+  \new Voice="melody" {
+    \transpose aes c {
+      \relative {
+        \key aes \major
+        \easyHeadsOn
+        \time 2/4
+        s4 ees''16 ees f8 | aes aes16 aes16 aes8. aes16 | f8 ees aes16 aes16 aes8 |
+      }
+    }
+  }
+}
+>>
+}

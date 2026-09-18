@@ -1,0 +1,47 @@
+#(set-global-staff-size 34)
+#(set-default-paper-size "a4" 'landscape)
+\version "2.20.0"
+\layout {
+  indent = 0.0
+}
+\header {
+  title = "We shall overcome"
+  section = "gospel"
+  tagline = ##f
+}
+\score {
+<<
+\new Staff {
+  \new Voice = "melody" {
+    \relative {
+      \key c \major
+      \easyHeadsOn
+      \time 4/4
+      g' g a a | g4. f8 e2 | g4 g a a | g f e2 | g4 g a b |
+      c2 d | b2 \tuplet 3/2 { a4 b a } | g2 a4 b | c2 b4 a | g1 |
+      a2 g4 f | e1 | g4 g c, f | e2 d | c1 
+      \bar "|."
+    }
+  }
+}
+\new Lyrics \with {
+  \override LyricText #'font-size = #-3
+} \lyricsto "melody" {
+  We shall o -- ver come, _ _
+  We shall o -- ver come, _ _
+  We shall o -- ver -- come some day _ _ _ _ 
+  Oh, _ deep in my heart I do be lieve,
+  We shall o -- ver -- come some day.
+}
+>>
+}
+\markup {
+  \vspace #2
+  \column {
+    \line {We are not afraid, we are not afraid,}
+    \line {We are not afraid today. Oh, deep…}
+    \vspace #0.5
+    \line {Truth shall make us free, truth shall make us free,}
+    \line {Truth shall make us free. Oh, deep…}
+  }
+}

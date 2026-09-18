@@ -1,0 +1,23 @@
+#(set-global-staff-size 34)
+#(set-default-paper-size "a4" 'landscape)
+
+\layout {
+  indent = 0.0
+}
+\header {
+  title = "Good king Wenceslas"
+  section= "koledy"
+  tagline= ##f
+}
+\score {
+<<
+\new Staff {
+  \relative {
+    \easyHeadsOn
+    c'' c c d | c c g2 | a4 g a b | c2 c | \break
+    c4 c c d | c c g2 | a4 g a b | c2 c | \break
+    g4 f e d |
+  }
+}
+>>
+}

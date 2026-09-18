@@ -16,7 +16,7 @@
     \transpose d c {
     \relative {
       \key d \major
-      \easyHeadsOn
+      % \easyHeadsOn
       \time 2/4
       a'8 a a b | g g g a | fis fis e e | d4 r | \break
       a'8 a a b | g g g a | fis fis e e | d4 r | \break
