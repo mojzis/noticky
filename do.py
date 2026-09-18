@@ -15,6 +15,10 @@ import pyvips
 SCORE_ONLY_PATH = 'lilywork/score_only'
 PDF_DEFAULT_PATH = 'public/lilyout'
 SOURCE_PATH = 'lilysource'
+SINGING_WORK_PATH = 'lilywork/singing'
+SINGING_STAFF_SIZE = 24
+IMAGES_PATH = 'images'
+SINGING_IMAGE_HEIGHT = 44
 
 LOGGING = True
 # for quick updates of irrelevant stuff, even if source file changed, lets allow to keep old
@@ -180,6 +184,39 @@ def generate_pdf(song):
     run_lily(options)
 
 
+def prepare_singing_source(text, image=None):
+    """ Rewrite the piano (landscape, big notes) source into a one page portrait sheet for singing.
+    With an image, it goes where the source has a `% singing-image` line (e.g. between verse columns). """
+    if image:
+        text = text.replace('% singing-image',
+                            f'\\column {{ \\general-align #Y #UP \\image #Y #{SINGING_IMAGE_HEIGHT} "{os.path.abspath(image)}" }}')
+    text = text.replace('"a4" \'landscape', '"a4"')
+    text = re.sub(r'#\(set-global-staff-size \d+\)', f'#(set-global-staff-size {SINGING_STAFF_SIZE})', text)
+    text = re.sub(r'#\(layout-set-staff-size \d+\)', '', text)
+    text = re.sub(r'\\override LyricText\.font-size = #-?\d+', '', text)
+    text = re.sub(r'\\midi\s*{[^}]*}', '', text)
+    return text + '\n\\paper {\n  page-count = 1\n}\n'
+
+
+def generate_singing_pdf(song):
+    output = f'{PDF_DEFAULT_PATH}/{song["filename"]}-singing'
+    if should_skip(f'{output}.pdf'):
+        return
+    with open(f'{SOURCE_PATH}/{song["filename"]}.ly') as source:
+        image = f'{IMAGES_PATH}/{song["filename"]}.png'
+        text = prepare_singing_source(source.read(), image if os.path.isfile(image) else None)
+    os.makedirs(SINGING_WORK_PATH, exist_ok=True)
+    with open(f'{SINGING_WORK_PATH}/{song["filename"]}.ly', 'w') as work:
+        work.write(text)
+    options = [
+        f'--output={output}',
+        '-dno-point-and-click',
+        '-s',
+        f'{SINGING_WORK_PATH}/{song["filename"]}.ly'
+    ]
+    run_lily(options)
+
+
 @click.command()
 def publish():
     songs = load_songs()
@@ -196,6 +233,7 @@ def publish():
             prepare_png(song)
             generate_ogimage(song)
             generate_pdf(song)
+            generate_singing_pdf(song)
         else:
             print(f'skipping {song["filename"]}')
         with open(f'public/songs/{song["filename"]}.html', 'w') as s:
