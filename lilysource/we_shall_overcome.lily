@@ -15,7 +15,6 @@
   \new Voice = "melody" {
     \relative {
       \key c \major
-      \easyHeadsOn
       \time 4/4
       g' g a a | g4. f8 e2 | g4 g a a | g f e2 | g4 g a b |
       c2 d | b2 \tuplet 3/2 { a4 b a } | g2 a4 b | c2 b4 a | g1 |

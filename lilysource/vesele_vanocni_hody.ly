@@ -19,7 +19,6 @@
   \transpose d c {
   \relative {
     \key d \major
-    \easyHeadsOn
     \time 2/4
     d'8[( fis)] a\noBeam a | a4 d8( b) | a4 g | fis r4 | d8[( fis)] a\noBeam a | a4 d8( b) | a4 g | fis r4 | \break
     \repeat volta 2 {

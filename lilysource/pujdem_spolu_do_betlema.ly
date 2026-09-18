@@ -14,7 +14,6 @@
 \new Staff {
   \new Voice = "melody" {
     \relative {
-    \easyHeadsOn
     \time 2/4
     \key f \major
     \autoBeamOff

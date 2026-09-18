@@ -16,7 +16,6 @@
 <<
 \relative {
 %   \set fontSize = #2.5
-  \easyHeadsOn
   f'8 f8 e8 c8 f8 f8 e8 c8 | d8 d8 e8 e8 g
 }
 \addlyrics {

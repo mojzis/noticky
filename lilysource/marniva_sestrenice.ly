@@ -17,7 +17,6 @@
     \transpose a c {
     \relative {
       \key a \major
-      \easyHeadsOn
       \time 4/4
       a'4 a cis e | a, a cis e | e1 | fis4 e r2 | \break
       b4 b d e | b b d e |  e1 | fis4 e r2 | \break

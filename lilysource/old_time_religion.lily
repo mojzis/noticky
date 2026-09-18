@@ -16,7 +16,6 @@
     \transpose aes c {
       \relative {
         \key aes \major
-        \easyHeadsOn
         \time 2/4
         s4 ees''16 ees f8 | aes aes16 aes16 aes8. aes16 | f8 ees aes16 aes16 aes8 |
       }

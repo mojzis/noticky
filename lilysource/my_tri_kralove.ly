@@ -15,7 +15,6 @@
   \new Voice = "melody" {
     \relative {
       \key g \major
-      \easyHeadsOn
       \time 3/4
       s2 d'4 | g2 g4 | g2 b4 | a2 a4 | b2. |
       g4 fis e | a2 a4 | d,( e) fis | g2.

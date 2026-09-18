@@ -14,7 +14,6 @@
 \new Staff {
   \new Voice = "melody" {
     \relative {
-      \easyHeadsOn
       g' g e2 | g4 g e2 | g4 g a g | g2 f \break
       f4 f d2 | f4 f d2 | f4 f g f | f2 e
       \bar "|."

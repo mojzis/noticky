@@ -17,7 +17,6 @@
   \new Voice = "melody" {
     \relative {
       \key c \major
-      \easyHeadsOn
       \time 4/4
       s2 r8 c'8 c c |
       \repeat volta 2 {

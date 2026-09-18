@@ -23,7 +23,6 @@
   \new Voice = "melody" {
     \transpose d c
     \relative {
-      \easyHeadsOn
       \time 2/4
       \key d \major
       d'4 fis | g8 fis e4 | d  r4 | fis a | a8[ g] g b | \break

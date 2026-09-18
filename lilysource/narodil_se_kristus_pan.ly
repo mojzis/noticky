@@ -13,7 +13,6 @@
 <<
 \new Staff {
   \new Voice = "melody" \relative {
-    \easyHeadsOn
     \time 4/4
     c'-1 c8-1( d-2) e4-3 fis-4 | g-5 g-4 g2-3 | fis4-2 g-3 a2-4 | g2.-3 r4 | \break
     g-5 g-5 f-4 f-4 | e-3 e-3 d2-2 | e-3 f-4 e-3( d-2) | c2.-1 r4  | \break 

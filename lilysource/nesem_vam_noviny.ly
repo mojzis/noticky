@@ -21,7 +21,6 @@ theChords = \chordmode {
     \transpose d c {
     \relative {
       \key d \major
-      \easyHeadsOn
       \time 3/4
       \repeat volta 2 {
        a'4-4 a8-4([ fis-2]) b-5( g-3) | a4-4 a8-4([ fis-2]) b-5( g-3) | a4-5 fis8-3([ a-5]) e-2( fis-3) | d2-1 r4 |

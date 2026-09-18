@@ -13,7 +13,6 @@
 <<
 \new Staff {
   \relative {
-    \easyHeadsOn
     c'' c c d | c c g2 | a4 g a b | c2 c | \break
     c4 c c d | c c g2 | a4 g a b | c2 c | \break
     g4 f e d |

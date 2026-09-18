@@ -14,7 +14,6 @@
 \new Staff {
   \new Voice = "melody"
   \relative {
-    \easyHeadsOn
     \time 3/4
     \repeat volta 2 {
       c'8 e g4 bes | aes8 g f4 g | e c2 |

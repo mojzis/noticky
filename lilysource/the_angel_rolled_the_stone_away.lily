@@ -16,7 +16,6 @@
     \relative {
       \key f \major
       \transpose f c
-      \easyHeadsOn
       \time 4/4
       r c' d f | f2. a4 | g2. f4 | a1( | a4) c, d f | f2. a4 |
       g2. f4 | a1( | a4) c c c | c a a8[ g] f4 | f2 f4 f |

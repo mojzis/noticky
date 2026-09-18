@@ -17,7 +17,6 @@
 \new Staff {
   \new Voice = "melody" {
     \relative {
-      \easyHeadsOn
       \time 2/4
       % \set fontSize = #new-size
       % \override StaffSymbol.staff-space = #(magstep new-size)
