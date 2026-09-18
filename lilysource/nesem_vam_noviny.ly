@@ -1,6 +1,6 @@
 #(set-global-staff-size 34)
 #(set-default-paper-size "a4" 'landscape)
-\version "2.20.0"
+\version "2.26.0"
 \layout {
   indent = 0.0
 }
@@ -39,14 +39,14 @@ theChords = \chordmode {
   }
 }
 \new Lyrics \with {
-      \override LyricText #'font-size = #-3
+      \override LyricText.font-size = #-3
     } \lyricsto "nesem" {
   <<
     {Ne -- sem vám no -- vi -- ny po -- slou -- chej -- te,
     Slyš -- te je pil -- ně a ne -- o -- myl -- ně, roz -- jí -- mej -- te
     }
     \new Lyrics \with {
-      \override LyricText #'font-size = #-3
+      \override LyricText.font-size = #-3
     } {
       \set associatedVoice = "nesem"
       zbet -- lém -- ské kra -- ji -- ny po -- zor dej -- te.

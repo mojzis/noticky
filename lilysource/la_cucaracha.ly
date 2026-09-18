@@ -1,6 +1,6 @@
 #(set-global-staff-size 34)
 #(set-default-paper-size "a4" 'landscape)
-\version "2.20.0"
+\version "2.26.0"
 \layout {
   indent = 0.0
 }
@@ -41,7 +41,7 @@
   }
 }
 \new Lyrics  \with {
-      \override LyricText #'font-size = #-3
+      \override LyricText.font-size = #-3
     } \lyricsto "melody" {
       La cu -- ca -- 
       \repeat volta 2 {

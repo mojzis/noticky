@@ -7,6 +7,18 @@
 An attempt to prepare note sheets for our kids to be able to learn playing piano.  
 PDF for print or html online (should be easily visible even on mobile devices).
 
+## Setup
+
+```sh
+sudo pacman -S lilypond   # 2.26+
+uv sync
+mkdir -p log lilywork/score_only work/svg work/ogimg
+uv run python do.py publish
+```
+
+Only `lilysource/*.ly` is built; `*.lily` files are drafts.
+To force regeneration, set `GENERATE_ANYWAY = True` / `KEEP_OLD_FILE = False` in `do.py`.
+
 ## Songs to add
 
 ### carols

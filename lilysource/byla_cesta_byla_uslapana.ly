@@ -1,6 +1,6 @@
 #(set-global-staff-size 34)
 #(set-default-paper-size "a4" 'landscape)
-\version "2.20.0"
+\version "2.26.0"
 \layout {
   indent = 0.0
 }
@@ -25,7 +25,7 @@
   }
 }
 \new Lyrics \with { 
-  \override LyricText #'font-size = #-2
+  \override LyricText.font-size = #-2
   } \lyricsto "melody" {
     By -- la ces -- ta, by -- la u -- šla -- pa -- ná,
     kdo ju šla -- pal, kdo ju šla -- pal? Mat -- ka Kris -- ta Pá -- na.

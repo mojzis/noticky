@@ -4,3 +4,4 @@ venv/
 work/
 lilywork/
 log/
+.venv/

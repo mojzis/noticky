@@ -1,6 +1,6 @@
 #(set-global-staff-size 34)
 #(set-default-paper-size "a4" 'landscape)
-\version "2.20.0"
+\version "2.26.0"
 \layout {
   indent = 0.0
 }
@@ -23,7 +23,7 @@
   }
 }
 \new Lyrics \with {
-  \override LyricText #'font-size = #-3
+  \override LyricText.font-size = #-3
 } \lyricsto "melody" {
   Hap -- py birth -- day to you! Hap -- py birth -- day to you!
   Hap -- py birth -- day, dear A B, Hap -- py birth -- day to you!

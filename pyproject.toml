@@ -1,0 +1,15 @@
+[project]
+name = "noticky"
+version = "0.1.0"
+description = "Note sheets for kids learning piano"
+requires-python = ">=3.12"
+dependencies = [
+    "click",
+    "jinja2",
+    "mistune",
+    "pyvips[binary]",
+    "python-frontmatter",
+]
+
+[tool.uv]
+package = false

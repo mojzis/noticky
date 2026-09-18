@@ -31,7 +31,7 @@ def main():
 def load_mds(path):
     glob = pathlib.Path(path).glob("*.md")
     results = []
-    md = mistune.Markdown()
+    md = mistune.create_markdown(escape=False, plugins=['url'])
     for item in sorted(glob, reverse=True):
         matter = frontmatter.load(item)
         data = dict(matter)

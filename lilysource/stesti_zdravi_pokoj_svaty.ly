@@ -1,6 +1,6 @@
 #(set-global-staff-size 34)
 #(set-default-paper-size "a4" 'landscape)
-\version "2.20.0"
+\version "2.26.0"
 \layout {
   indent = 0.0
 }
@@ -28,7 +28,7 @@
   }
 }
 \new Lyrics \with {
-      \override LyricText #'font-size = #-2
+      \override LyricText.font-size = #-2
     } \lyricsto "melody" {
       Štěs -- tí zdra -- ví po -- koj sva -- tý vin -- šu -- je -- me vám,
       nej -- prv pa -- nu hos -- po -- dá -- ři, pak va -- šim dít -- kám.
