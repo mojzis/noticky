@@ -5,3 +5,4 @@ work/
 lilywork/
 log/
 .venv/
+__pycache__/
